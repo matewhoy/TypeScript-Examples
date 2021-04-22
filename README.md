@@ -1,2 +1,2 @@
 # TypeScript-Examples
-This is an examples using TipeScript
+These are some examples of typescript examples using TipeScript
